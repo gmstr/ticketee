@@ -122,5 +122,6 @@ DEPENDENCIES
   capybara
   cucumber-rails
   rails (= 3.0.1)
+  rspec
   rspec-rails
   sqlite3-ruby
